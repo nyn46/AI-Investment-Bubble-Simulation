@@ -1,5 +1,7 @@
 # AI Investment Bubble Simulation
 
+**Live demo:** https://nyn46.github.io/AI-Investment-Bubble-Simulation/
+
 What happens if AI investment dries up? This is an interactive stress test of the AI economy. Pick how much new AI money disappears over 12 months (0–90%), press **Run cascade**, and watch the shock travel from investors to AI labs, clouds, chipmakers, stock markets, jobs and India.
 
 **This is a scenario model, not a forecast.** Every number on the page is tagged by how much to trust it: Reported, Media-reported, Estimate, Assumption or Model output. Each one links to its source (about 140 in total).
