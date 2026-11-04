@@ -1,1 +1,1 @@
-window.LIVE={"fetched":"2026-11-03","gdp":{"date":"2026-07-01","value":33010.036,"series":"GDP"},"hy":{"date":"2026-10-30","value":3.44,"series":"BAMLH0A0HYM2"},"vix":{"date":"2026-10-30","value":19.42,"series":"VIXCLS"},"ust10":{"date":"2026-10-30","value":4.94,"series":"DGS10"}};
+window.LIVE={"fetched":"2026-11-04","gdp":{"date":"2026-07-01","value":33010.036,"series":"GDP"},"hy":{"date":"2026-11-02","value":3.43,"series":"BAMLH0A0HYM2"},"vix":{"date":"2026-11-02","value":21.15,"series":"VIXCLS"},"ust10":{"date":"2026-11-02","value":4.91,"series":"DGS10"}};
